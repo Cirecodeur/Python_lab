@@ -1,0 +1,10 @@
+Quelle est la formule du poids d'un corps : ; 1 : (1/2)m(V*V); 2 :mg; 3 :mV; 2 :mg
+Quel est  la plus petite unite en informatique:; 1 :une bite; 2 : le bit ; 3 : byte ; 2 : le bit
+La distance entre 2 point peut s'exprimer en :  ;1 :   Kilogramme;2 :   Kilolitre;3 :   metre ;3 :   metre
+Entre l'eau et l'huile lequel est plus danse ? ;1  : L'eau ; 2 : l'huile ; 3 : les deux ; 2 : l'huile
+La pression atmospherique est-elle  plus grande sur la lune ? ;1 : Non ; 2 : oui ; 3 : n'existe pas ; 3 : n'existe pas
+Quelle est l'unite du poids : ; 1 : Newton; 2 :mg; 3 :kg; 1 :Newton
+Quelle est l'organe moteur de l'homme : ; 1 : Penis; 2 :Coeur; 3 :estomac; 2 :Coeur
+Il y a combien d'organe de sens : ; 1 : 6; 2 :20; 3 :5; 3 :5
+L'homme produit quelle type de gamettes : ; 1 : spermatozoide; 2 :ovule; 3 : lait ; 1 : spermatozoide
+Combien de litre de sang contient le corps humain ? : ; 1 : 5 ; 2 :10 ; 3 :8 ; 1 : 5

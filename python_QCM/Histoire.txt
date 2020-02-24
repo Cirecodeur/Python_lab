@@ -1,0 +1,11 @@
+Quelle est la capitale de TOGO : ; 1 : Lome; 2 : Accra; 3 : Berlin; 1 : Lome
+Qui a decouvert l'amerique :; 1 :Magelan;2 : Francois Hollande; 3 : Christophe Colombe;3 : Christophe Colombe
+En quelle annee a commencee la deuxieme guerre mondiale , : ;1 :   1993;2 :   1939;3 :   1945;2 :   1939
+Qui etait Hitler ? ; 1  : L'empereur d'allemagne;2 : Un enfant tromatise qui veut se venger ;3 : ideologue et homme d'État allemand; 3 : ideologue et homme d'etat allemand
+Quel est la date de naissance de Adolf Hitler ? ;1 : 20 avril 1889 ; 2 : 22 Mars 1870;3 :30 Aout 1990; 1 : 20 avril 1889
+Quelle est l'actuelle president du TOGO : ; 1 : Jean Pierre FABRE; 2 : AGBEYOME Kodjo; 3 : Faure Essozimna Gnassingbe; 3 : Faure Essozimna Gnassingbe
+Quelle est la langue officielle au TOGO : ; 1 : Kabye; 2 : Francais; 3 : Ewe; 2 : Francais
+Quelle est le pays colonisateur du TOGO : ; 1 : France; 2 : Ethiopie; 3 : Allemagne; 3 : Allemagne
+Comment s'appelait le Ghana au temps colonial : ; 1 : Gold Coast; 2 : Togoland; 3 : Dahomey; 1 : Gold Coast
+Quelle pays n'a pas pu etre colonise en Afrique : ; 1 : TOGO; 2 : Benin; 3 : Ethiopie; 3 : Ethiopie
+En quelle annee le TOGO a eu son independance  : ; 1 : 1960; 2 : 1980; 3 : 1956; 1 : 1960
